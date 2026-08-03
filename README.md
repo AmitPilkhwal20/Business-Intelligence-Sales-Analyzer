@@ -45,55 +45,35 @@ The application automates **sales data cleaning, KPI analytics, interactive dash
 
 ## 🚀 Installation
 
-Clone the repository
-
+### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/Business-Intelligence-Sales-Analyzer.git
+git clone https://github.com/AmitPilkhwal20/Business-Intelligence-Sales-Analyzer.git
 cd Business-Intelligence-Sales-Analyzer
 ```
 
-Install dependencies
-
+### 2. Install the required dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-Run the application
+### 3. (Optional) Generate the sample dataset
+```bash
+python sample_data_generator.py
+```
 
+### 4. Run the Streamlit application
 ```bash
 streamlit run app.py
 ```
 
-Open your browser and visit:
-
-```
+### 5. Open the application
+Visit the following URL in your browser:
+```text
 http://localhost:8501
 ```
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots here
-
-- Dashboard
-- KPI Overview
-- Charts
-- PDF Report
-
----
-
-## 📄 Reports Generated
-
-- Cleaned CSV
-- Excel Executive Report
-- PDF Business Report
-
----
-
 ## 👨‍💻 Author
 
-**Your Name**
-
-GitHub: https://github.com/your-username
-LinkedIn: https://linkedin.com/in/your-profile
+** Amit Pilkhwal **
