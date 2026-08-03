@@ -56,17 +56,12 @@ cd Business-Intelligence-Sales-Analyzer
 pip install -r requirements.txt
 ```
 
-### 3. (Optional) Generate the sample dataset
-```bash
-python sample_data_generator.py
-```
-
-### 4. Run the Streamlit application
+### 3. Run the Streamlit application
 ```bash
 streamlit run app.py
 ```
 
-### 5. Open the application
+### 4. Open the application
 Visit the following URL in your browser:
 ```text
 http://localhost:8501
