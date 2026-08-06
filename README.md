@@ -1,8 +1,6 @@
 # 📊 Business Intelligence Sales Analyzer
 
-A production-ready **Business Intelligence Sales Analyzer** built with **Python, Streamlit, Pandas, MySQL, Matplotlib, OpenPyXL, and ReportLab**.
-
-The application automates **sales data cleaning, KPI analytics, interactive dashboards, business insights, and report generation** from CSV or Excel datasets.
+A Python-based Business Intelligence application that analyzes sales data, generates interactive dashboards, provides automated business insights, and exports professional reports.
 
 ---
 
@@ -10,7 +8,7 @@ The application automates **sales data cleaning, KPI analytics, interactive dash
 
 - 📂 Upload CSV and Excel datasets
 - 🧹 Automatic data cleaning & preprocessing
-- 📈 KPI Dashboard
+- 📈 Interactive KPI Dashboard
   - Total Revenue
   - Net Profit
   - Total Orders
@@ -26,7 +24,7 @@ The application automates **sales data cleaning, KPI analytics, interactive dash
   - CSV
   - Excel
   - PDF
-- 🗄 MySQL Support with Automatic SQLite Fallback
+- 🗄️ MySQL Support with Automatic SQLite Fallback
 
 ---
 
@@ -46,29 +44,30 @@ The application automates **sales data cleaning, KPI analytics, interactive dash
 ## 🚀 Installation
 
 ### 1. Clone the repository
-```bash
 git clone https://github.com/AmitPilkhwal20/Business-Intelligence-Sales-Analyzer.git
 cd Business-Intelligence-Sales-Analyzer
-```
 
-### 2. Install the required dependencies
-```bash
+### 2. Install dependencies
 pip install -r requirements.txt
-```
 
-### 3. Run the Streamlit application
-```bash
+### 3. Run the application
 streamlit run app.py
-```
 
-### 4. Open the application
-Visit the following URL in your browser:
-```text
+### 4. Open in your browser
 http://localhost:8501
-```
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+See the LICENSE file for more details.
 
 ---
 
 ## 👨‍💻 Author
 
-### Amit Pilkhwal 
+Amit Pilkhwal
+
+GitHub: https://github.com/AmitPilkhwal20
