@@ -1,6 +1,11 @@
 # 📊 Business Intelligence Sales Analyzer
 
-A Python-based Business Intelligence application that analyzes sales data, generates interactive dashboards, provides automated business insights, and exports professional reports.
+A comprehensive **Business Intelligence and Sales Analytics** application built with **Python, Streamlit, Pandas, SQL, and Matplotlib** that transforms raw sales data into actionable business insights through interactive dashboards, advanced data analysis, dynamic visualizations, and automated PDF/Excel reporting, enabling data-driven decision-making.
+
+---
+🚀 Live Demo
+
+🌐 Streamlit App: https://business-intelligence-sales-analyzer-phz8z7psmuzmnh5u3taxpb.streamlit.app/
 
 ---
 
